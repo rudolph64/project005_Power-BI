@@ -1,5 +1,5 @@
 # Sales Dashboard Project
-Sales Insights Data Analysis Project using Power BI
+Sales dashboard Project using Power BI
 
 Electronic Hardware company has HQ in Delhi and many branches across the country
 Tracking sales in dynamically growing market, wants an overall simple insight of all the branches across the country
