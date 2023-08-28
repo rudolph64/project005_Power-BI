@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis Project
+# Sales Dashboard Project
 Sales Insights Data Analysis Project using Power BI
 
 Electronic Hardware company has HQ in Delhi and many branches across the country
